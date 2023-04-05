@@ -26,4 +26,10 @@ int main() {
 	cout << "masukkan alamat : ";
 	cin >> mhs2.alamat;
 
+	cout << "NIM : " << mhs.nim;
+	cout << "\numur : " << mhs.umur;
+	cout << "\nnama : " << mhs.nama;
+	cout << "\nalamat : " << mhs.alamat;
+
 	
+}
